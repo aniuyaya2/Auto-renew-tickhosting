@@ -1,4 +1,32 @@
-Server ID: 0bdeb120
-Renew status: Success
-Last renewal time: 2024-12-22 05:20:38
-New expiration time: 2024-12-31 07:48:56
+Server ID: Unknown
+Renew status: Failed
+Last renewal time: 2024-12-24 04:52:40
+Error: Timeout error: Message: timeout: Timed out receiving message from renderer: -0.036
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C0776CC5+28821]
+	(No symbol) [0x00007FF7C06E3850]
+	(No symbol) [0x00007FF7C058578A]
+	(No symbol) [0x00007FF7C0573992]
+	(No symbol) [0x00007FF7C057365A]
+	(No symbol) [0x00007FF7C0571274]
+	(No symbol) [0x00007FF7C0571D1F]
+	(No symbol) [0x00007FF7C058084E]
+	(No symbol) [0x00007FF7C059492D]
+	(No symbol) [0x00007FF7C059B10A]
+	(No symbol) [0x00007FF7C0572484]
+	(No symbol) [0x00007FF7C0594753]
+	(No symbol) [0x00007FF7C061F2F6]
+	(No symbol) [0x00007FF7C05FF0A3]
+	(No symbol) [0x00007FF7C05CA778]
+	(No symbol) [0x00007FF7C05CB8E1]
+	GetHandleVerifier [0x00007FF7C0AAFCCD+3408029]
+	GetHandleVerifier [0x00007FF7C0AC743F+3504143]
+	GetHandleVerifier [0x00007FF7C0ABB61D+3455469]
+	GetHandleVerifier [0x00007FF7C083BDCB+835995]
+	(No symbol) [0x00007FF7C06EEB6F]
+	(No symbol) [0x00007FF7C06EA824]
+	(No symbol) [0x00007FF7C06EA9BD]
+	(No symbol) [0x00007FF7C06DA1A9]
+	BaseThreadInitThunk [0x00007FF8492D4CB0+16]
+	RtlUserThreadStart [0x00007FF84961EDCB+43]
